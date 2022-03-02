@@ -1,2 +1,2 @@
 # KatasMarceloAvilaLauchX
-Katas realizadas para Launch X
+Katas realizadas para el Onboarding de Launch X
